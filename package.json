@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@chakra-ui/react": "^3.19.1",
+    "@emotion/react": "^11.14.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
