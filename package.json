@@ -11,8 +11,10 @@
   "dependencies": {
     "@chakra-ui/react": "^3.19.1",
     "@emotion/react": "^11.14.0",
+    "colors": "^1.4.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "mongoose": "^8.15.1",
     "nodemon": "^3.1.10"
   }
 }
